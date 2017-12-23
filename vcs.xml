@@ -22,8 +22,12 @@
           <option name="url" value="http://vadimk@bitbucket.kramponline.com/scm/green/jmeter-grpc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://vadim4hub@bitbucket.org/kramphub/gazelle-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/repos/juja/vk" />
+    <option name="cloneParentDir" value="$USER_HOME$/repos/kramphub" />
   </component>
 </application>
